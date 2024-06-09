@@ -2,7 +2,8 @@
 # Instalação básica de pacotes + habilitação do flatpak + configurações essenciais
 
 # Primeira atualização do sistema
-sudo apt update && sudo apt upgrade -y
+sudo apt update
+sudo apt upgrade -y
 
 # Definir senha do root
 sudo passwd root

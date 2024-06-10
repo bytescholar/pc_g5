@@ -9,3 +9,6 @@ alias flatunin='sudo flatpak uninstall --force-remove --delete-data'
 
 # Abrir Vim
 alias v='vim'
+
+# Script de atualização
+alias atu='atualiza.sh'

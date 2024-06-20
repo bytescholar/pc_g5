@@ -1,6 +1,9 @@
 # Clear - limpar tela
 alias c='clear'
 
+# Sair
+alias e='exit'
+
 # Flatpak install [package]
 alias flatinst='sudo flatpak install -y flathub'
 

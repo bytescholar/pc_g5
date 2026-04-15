@@ -16,7 +16,7 @@ sudo apt update
 sudo apt install -y libnss3-tools libcurl4 libglib2.0-0 libnss3 libxss1 wget ca-certificates || true
 
 # --- Download da versão mais recente do Módulo de Segurança --- #
-DOWNLOAD_URL="https://imagem.caixa.gov.br/banner/fgr/GBPCEFwr64.deb"
+DOWNLOAD_URL="https://cloud.gastecnologia.com.br/cef/warsaw/install/GBPCEFwr64.deb"
 wget -O /tmp/warsaw.deb "$DOWNLOAD_URL"
 
 # --- Instalação do Módulo de Segurança e correção de dependências (se necessário) --- #
